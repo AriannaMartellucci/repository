@@ -3,10 +3,10 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-$host= 'localhost';
-$nomedatabase= 'db_biblioteca';
-$nomeutente ='arianna';
-$password ='ujulele123';
+$host= 'eliarisaelibiblio.000webhostapp.com';
+$nomedatabase= 'id4234948_db_biblioteca';
+$nomeutente ='id4234948_eliarifrifri';
+$password ='frifrifri';
     try {
         $db = new PDO('mysql:host='.$host.';port=3306;dbname='.$nomedatabase.';charset=utf8', $nomeutente, $password);
 
