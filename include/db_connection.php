@@ -3,7 +3,7 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-$host= 'eliarisaelibiblio.000webhostapp.com';
+$host= 'localhost';
 $nomedatabase= 'id4234948_db_biblioteca';
 $nomeutente ='id4234948_eliarifrifri';
 $password ='frifrifri';
