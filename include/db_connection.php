@@ -3,7 +3,7 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-$host= 'localhost';
+$host= 'files.000webhost.com';
 $nomedatabase= 'id4234948_db_biblioteca';
 $nomeutente ='id4234948_eliarifrifri';
 $password ='frifrifri';
